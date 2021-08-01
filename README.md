@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784741-db52dcd7-eb37-4b74-a307-7a45c69c4fd6.png">
   <br />
  Differential Equations Guide
 </h1>
@@ -9,7 +9,7 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784743-18b49851-a792-448c-bc1c-e4eb39786e0a.png">
   <br />
 </p>
 
@@ -107,7 +107,7 @@
  - Homogeneous equations: First order differential equations
 
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784746-2896215a-4782-4599-84dc-e12ee4cc334f.png">
   <br />
 </p>
 
@@ -119,7 +119,7 @@
  - Method of undetermined coefficients: Second order linear equations
 
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784747-de3066a4-b31e-4002-91ce-969d4019b2eb.png">
   <br />
 </p>
 
@@ -132,7 +132,7 @@
  - The convolution integral
 
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784748-f66b1b0f-2385-4513-b36a-6705045aef9b.png">
   <br />
 </p>
 
